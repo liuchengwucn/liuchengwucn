@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I am studying for a PhD at Peking University.
+- 🔭 I'm currently pursuing my postgraduate studies in Computer Science.
 - 🌱 I'm very interested in research related to LLM and AI.
-- 📫 How to reach me: liuchengwu@pku.edu.cn
+- 💡 I enjoy tackling complex problems and believe in the transformative power of AI to solve real-world challenges.
 
 <!--
 **liuchengwucn/liuchengwucn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
